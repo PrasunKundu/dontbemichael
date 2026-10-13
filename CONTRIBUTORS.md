@@ -7,7 +7,7 @@ It is generated from the pull requests themselves rather than from commit metada
 dropped because their git email does not happen to match their GitHub account. It is regenerated
 from merged pull requests, so you appear without having to ask.
 
-**63 people** have contributed so far.
+**66 people** have contributed so far.
 
 <a href="https://github.com/agentvivekkumar/dontbemichael/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=agentvivekkumar/dontbemichael" alt="Contributor avatars">
@@ -85,8 +85,11 @@ requests, and a pull request always has a real account behind it.
 | [@arksaraf135](https://github.com/arksaraf135) | 1 | 2026-10-13 | 2026-10-13 |
 | [@dave-16](https://github.com/dave-16) | 1 | 2026-10-13 | 2026-10-13 |
 | [@TolgaRodoplu](https://github.com/TolgaRodoplu) | 1 | 2026-10-13 | 2026-10-13 |
+| [@vaidyavivek](https://github.com/vaidyavivek) | 1 | 2026-10-13 | 2026-10-13 |
+| [@Shreyas652](https://github.com/Shreyas652) | 1 | 2026-10-13 | 2026-10-13 |
+| [@dhanoliya-ji](https://github.com/dhanoliya-ji) | 1 | 2026-10-13 | 2026-10-13 |
 
-_152 pull requests from 63 people._
+_155 pull requests from 66 people._
 
 ## † Contributions that never got the merged badge
 
